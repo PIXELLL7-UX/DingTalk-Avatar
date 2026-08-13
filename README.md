@@ -8,4 +8,4 @@
 
 1. 安装这个 skill
 2. 上传一张照片
-3. 让 Codex 使用 `$dingtalk-avatar` 生成头像
+3. 让 AI 使用这个skill生成头像
