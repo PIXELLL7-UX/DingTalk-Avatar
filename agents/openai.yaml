@@ -1,0 +1,4 @@
+interface:
+  display_name: "DingTalk Avatar"
+  short_description: "Generate DingTalk-style doodle avatars"
+  default_prompt: "Use $dingtalk-avatar to turn this portrait photo into a large head-only pastel doodle avatar with a random pastel background, Figma avatar-board facial features, and a matching top accessory style."
