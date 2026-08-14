@@ -4,6 +4,14 @@
 
 上传你的照片，就能生成可爱的卡通头像。
 
+## 示例
+
+<p>
+  <img src="examples/example-1.png" width="128" alt="示例头像 1">
+  <img src="examples/example-2.png" width="128" alt="示例头像 2">
+  <img src="examples/example-3.png" width="128" alt="示例头像 3">
+</p>
+
 ## 用法
 
 1. 安装这个 skill
